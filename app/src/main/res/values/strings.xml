@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZFile</string>
+    <string name="btn_create_db">新建DB</string>
+    <string name="usd">$</string>
+</resources>
