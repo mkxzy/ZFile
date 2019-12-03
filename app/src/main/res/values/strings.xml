@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">ZFile</string>
     <string name="btn_create_db">新建DB</string>
+    <string name="tv_db_name">数据库名</string>
+    <string name="btn_save">保存</string>
     <string name="usd">$</string>
 </resources>
